@@ -1,5 +1,3 @@
-![Voll - Mobile](https://repository-images.githubusercontent.com/629788589/5a52b9b6-7cea-452a-9e45-7fd74487e226)
-
 # Voll #
 
 Uma aplicação para consultas médicas usando Native Base e TypeScript no React Native. É feita a integração com uma Web API usando o Axios.
